@@ -1,0 +1,3 @@
+Version control is important in these projects because it helps multiple people work on the same project efficiently.
+Version control also helps prevent people from losing or overwriting each other's work.
+Version control also helps on reviewing contributions and tracks the sources of issues.
